@@ -1,4 +1,8 @@
-p{
+div{
     background: blue;
     color: aliceblue;
+}
+p{
+    background-color: aqua;
+    color: black;
 }
